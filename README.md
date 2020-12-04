@@ -6,7 +6,7 @@ Inputs are stored in the inputs directory. To run each day/part just run php <fi
 
 Note on timing: I only start the timer after the input data is read in to focus on the algorithm execution time, not the file read/processing time.
 
-## Results: php 8.0.0 on 2020 M1 macbook mini
+## Results: php 8.0.0 on 2020 M1 macbook pro 13"
 
 ```
 Day 1, problem 1
