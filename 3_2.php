@@ -20,12 +20,14 @@ $s3 = get_trees($rows, 5, 1);
 $s4 = get_trees($rows, 7, 1);
 $s5 = get_Trees($rows, 1, 2);
 
-$trees = ($s1 * $s2 * $s3 * $s4 * $s5);
+$total_trees = ($s1 + $s2 + $s3 + $s4 + $s5);
+$product = ($s1 * $s2 * $s3 * $s4 * $s5);
 
 $end_time = microtime(true);
 $ms_time = ($end_time - $start_time) * 1000;
 
-echo "Trees Encountered: $trees\n";
+echo "Total Trees: $total_trees\n";
+echo "Product of Trees Encountered: $product\n";
 echo "Time: " . number_format($ms_time, 3) . "ms\n";
 
 
