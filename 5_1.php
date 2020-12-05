@@ -18,6 +18,3 @@ echo "Highest seat id: {$seat_ids[0]}\n";
 $end_time = microtime(true);
 $ms_time = ($end_time - $start_time) * 1000;
 echo "Time: " . number_format($ms_time, 3) . "ms\n";
-
-function find_highest_seat_id($seat_ids) {
-}
