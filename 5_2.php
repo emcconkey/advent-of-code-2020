@@ -1,6 +1,6 @@
 <?php
 require_once("inputs/day5.php");
-echo "Day 5, problem 1\n";
+echo "Day 5, problem 2\n";
 
 $start_time = microtime(true);
 $rows = explode("\n", $input);

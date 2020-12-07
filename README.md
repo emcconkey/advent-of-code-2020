@@ -76,3 +76,39 @@ Valid Passports   : 158
 Invalid Passports : 124
 Time: 1.898ms
 ```
+
+```
+Day 5, problem 1
+Highest seat id: 963
+Time: 1.158ms
+```
+
+```
+Day 5, problem 2
+My seat ID is: 592
+Time: 0.558ms
+```
+
+```
+Day 6, problem 1
+Number of answers: 6748
+Time: 0.963ms
+```
+
+```
+Day 6, problem 2
+Number of answers: 3445
+Time: 2.153ms
+```
+
+```
+Day 7, problem 1
+Number of bags: 213
+Time: 26.479ms
+```
+
+```
+Day 7, problem 2
+Number of bags: 38426
+Time: 4.697ms
+```
