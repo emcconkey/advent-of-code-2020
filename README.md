@@ -112,3 +112,17 @@ Day 7, problem 2
 Number of bags: 38426
 Time: 4.697ms
 ```
+
+```
+Day 8, problem 1
+Duplicate code detected at line 605
+Accumulator: 1797
+Time: 0.324ms
+```
+
+```
+Day 8, problem 2
+Successful jmp -> nop on line 297
+Accumulator: 1036
+Time: 11.236ms
+```
