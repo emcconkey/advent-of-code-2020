@@ -126,3 +126,18 @@ Successful jmp -> nop on line 297
 Accumulator: 1036
 Time: 11.236ms
 ```
+
+```
+Day 9, problem 1
+Invalid number: 530627549
+Time: 13.072ms
+```
+
+```
+Day 9, problem 2
+Invalid number: 530627549
+Smallest      : 22004068
+Largest       : 55726217
+Sum           : 77730285
+Time: 85.750ms
+```
