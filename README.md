@@ -141,3 +141,18 @@ Largest       : 55726217
 Sum           : 77730285
 Time: 85.750ms
 ```
+
+```
+Day 10, problem 1
+Highest jolt: 179
+3 diffs     : 38
+1 diffs     : 65
+Product     : 2470
+Time: 0.099ms
+```
+
+```
+Day 10, problem 2
+Final number of combinations: 1973822685184
+Time: 0.097ms
+```
